@@ -1,0 +1,28 @@
+name: DomGignac
+favicon: null
+layout_spectrum: 0.8693009146954864
+typography_spectrum: 0.7471180269494653
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.29467576928436756
+  lightness: 0.5757301223929971
+  saturation: 0.38493508263491094
+  rhythmicContrast: 0.04985123826190829
+purpose: []
