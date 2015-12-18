@@ -2,6 +2,7 @@ name: DomGignac
 favicon: null
 layout_spectrum: 0.89815
 typography_spectrum: 0.31827
+title: Test
 cta:
   domain: null
   bucket: null
